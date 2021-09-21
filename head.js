@@ -3,3 +3,4 @@ const head = function(givenArray) {
 }
 
 module.exports = head;
+
